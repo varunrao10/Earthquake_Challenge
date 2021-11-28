@@ -3,6 +3,7 @@
 
  ### Module 13 Earthquake_Challenge 
 **Js:** [Challenge js](static/js/challenge.js)
+
 **Html:** [Index html](index.html)
 
 ## Overview of Earthquake_Challenge:
